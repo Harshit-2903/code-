@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "q3",
+      "request": "launch",
+      "mainClass": "q3",
+      "projectName": "clg_759ce366"
+    },
+    {
+      "type": "java",
       "name": "Y2",
       "request": "launch",
       "mainClass": "Y2",
